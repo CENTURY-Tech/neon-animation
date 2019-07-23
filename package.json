@@ -1,0 +1,12 @@
+{
+  "name": "neon-animation",
+  "version": "1.2.6",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-meta": "github:CENTURY-Tech/iron-meta#v1.1.4",
+    "iron-resizable-behavior": "github:CENTURY-Tech/iron-resizable-behavior#v1.0.7",
+    "iron-selector": "github:CENTURY-Tech/iron-selector#v1.5.4",
+    "web-animations-js": "^2.2.0"
+  },
+  "private": true
+}
